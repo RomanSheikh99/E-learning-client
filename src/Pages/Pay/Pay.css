@@ -1,0 +1,10 @@
+.pay-container {
+    height: 100vh;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://blog.2checkout.com/wp-content/uploads/2020/04/What-Does-Payment-Processing-Mean-Definition-and-Important-Terms-to-Know.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
